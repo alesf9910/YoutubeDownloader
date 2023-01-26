@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "yzgq+7WQsJrtePY7leOJ8+ukUqa57einRB+Lr+2yKs5EVt6yZ2t4QwwZxQi5V4C9UdRKu6e+mOlqyuUzUrnNpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alejandro\\source\\repos\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alejandro\\.nuget\\packages\\google.apis\\1.57.0\\google.apis.1.57.0.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\google.apis.auth\\1.57.0\\google.apis.auth.1.57.0.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\google.apis.core\\1.57.0\\google.apis.core.1.57.0.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\google.apis.youtube.v3\\1.57.0.2756\\google.apis.youtube.v3.1.57.0.2756.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\materialdesigncolors\\2.1.0-ci333\\materialdesigncolors.2.1.0-ci333.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\materialdesignthemes\\4.7.0-ci333\\materialdesignthemes.4.7.0-ci333.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\system.text.encodings.web\\7.0.0-rc.2.22472.3\\system.text.encodings.web.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\system.text.json\\7.0.0-rc.2.22472.3\\system.text.json.7.0.0-rc.2.22472.3.nupkg.sha512"
+  ],
+  "logs": []
+}
